@@ -1,0 +1,18 @@
+/*#212121*/
+/* #2196F3*/
+/*#757575*/
+/*#FFFFFF*/
+
+body  {
+  color: #212121;
+  background-color: #ffffff;
+}
+.logo {
+  color: #2196f3;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+
+}
